@@ -1,6 +1,6 @@
 ## MRIcroGL Troubleshooting
 
-This page describes how to resolve issues with [MRIcroGL](https://www.nitrc.org/plugins/mwiki/index.php/mricrogl:MainPage). This page wwas originally created several years ago, at a time when graphics cards were generally less poserful. Most modern computers should support this software without issue.
+This page describes how to resolve issues with [MRIcroGL](https://www.nitrc.org/plugins/mwiki/index.php/mricrogl:MainPage). This page wwas originally created several years ago, at a time when graphics cards were generally less powerful. Most modern computers should support this software without issue.
 
  - MRIcroGL requires a graphics card and driver that can support large 3D textures. It will not run on all computers, and it will run slowly on older computers. The framerates are interactive for all modern computers (e.g. even the integrated Intel Sandy Bridge GPUs released in 2011 provide good speed, whereas modern GeForce and Radeon cards are much faster).
  - MRIcroGL requires OpenGL version 2.1 (released in 2006) or later.
